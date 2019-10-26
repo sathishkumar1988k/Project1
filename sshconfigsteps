@@ -1,0 +1,5 @@
+type ssh-keygen in the command prompt to generate ssh key and then press enter 3 times.
+.ssh hidden folder will be created in c drive under users.
+private and public authentication key will be created.
+copy the public key and paste in Git Hub setting folder.
+To download the git hub project: git clone https://github.com/sathishkumar1988k/Project1.git
